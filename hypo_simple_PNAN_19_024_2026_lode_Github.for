@@ -2,8 +2,6 @@ c-----------------------------------------------------------------------------
 c Hyposimple model: A simple hypoplastic model for sand under drained condition
 c and simple loading paths 
 c-----------------------------------------------------------------------------
-c UMAT subroutine developped by Zheng LI at University Gustave Eiffel
-c email: zheng.li@univ-eiffel.fr
 c------------------------------------------------------------------------------
 c User subroutine for Abaqus 6.24
 c-----------------------------------------------------------------------------
